@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2014/08/07 05:16:53.359,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2014/08/07 05:17:06.054,C:\develop\delphi\xetest\Unit2.pas=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2014/08/07 05:17:06.054,C:\develop\delphi\xetest\Unit2.fmx=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit2.fmx</Transaction>
+    <Transaction>2014/08/07 05:17:14.017,C:\develop\delphi\xetest\Project1.dproj=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
